@@ -44,7 +44,7 @@ e2 = employee("ram", 26, 54989)
 e2.introduce_self()
 e1.Employee_data()
 ```
-### Output:
+#### Output:
 ```
 name of the employee is ram
 Name :  ajay , Age:  24 , Salary:  45040
@@ -146,7 +146,7 @@ s.pay()
 
 s.display()
 ```
-### Output:
+#### Output:
 ```
 Name: John
 Age: 33
@@ -181,7 +181,7 @@ class C(A,B):
     def function5():
         print("function5 is working")
 ```
-### Program:
+#### Program:
 ```
 class Calculation1:  
     def Summation(self,a,b):  
@@ -200,7 +200,7 @@ print("The sum of a and b is",d.Summation(10,20))
 print("The multiplication of a and b is",d.Multiplication(10,20))  
 print("The division of a and b is",d.Divide(10,20))
 ```
-### Output:
+#### Output:
 ```
 The sum of a and b is 30
 The multiplication of a and b is 200
