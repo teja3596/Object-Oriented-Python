@@ -13,8 +13,8 @@ An object is an entity that possesses both state (or properties or attributes) a
     	def function2():
         	print("function2 is working")
         
-     A.function1()       
-     A.function2()
+     	A.function1()       
+     	A.function2()
 ```
 ### Output:
 ```
@@ -100,7 +100,7 @@ In multi-level inheritance, the features of all the base classes are inherited i
         		print("function3 is working")
     		def function4():
         		print("function4 is working")
-     class C(B):
+     	class C(B):
    		def function5():
         		print("function5 is working")
 
